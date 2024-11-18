@@ -8,44 +8,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# **Preparando-se para o Futuro do Trabalho com IA Generativa** 😉
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este eBook é um guia prático e motivacional para navegar pelas transformações no mercado de trabalho causadas pela Inteligência Artificial Generativa. Ele explora oportunidades, desafios, e estratégias para prosperar em um cenário em constante evolução.
+[Veja o Ebook aqui]([URL](https://github.com/oemeferreira/lab-natty-or-not/blob/main/Ebook%20-%20Preparando%20para%20o%20Futuro%20do%20Trabalho%20com%20IA%20Generativa.pdf))
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: Para criação do texto e estrutura do eBook.  
+- **Ideogram**: Para desenvolver a capa com um design futurista.  
+- **LeonardoAI**: Para gerar imagens que ilustram os capítulos.  
+- **Canva**: Para a diagramação e finalização do eBook.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Conteúdo**: Desenvolvi a estrutura e escrevi cada capítulo usando o ChatGPT, com uma abordagem natural e adaptada ao público-alvo.  
+2. **Capa**: Utilizei o Ideogram para criar uma capa que refletisse a temática do eBook, com um design clean e tecnológico.  
+3. **Imagens**: Com o LeonardoAI, criei ilustrações únicas para cada capítulo, garantindo que fossem relevantes e inspiradoras.  
+4. **Diagramação**: Finalizei o eBook no Canva, ajustando o layout para torná-lo visualmente atraente e fácil de ler.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um eBook com aproximadamente 6 páginas, repleto de insights práticos e visuais impactantes. Ele serve como uma ferramenta poderosa para qualquer pessoa que queira se adaptar e prosperar no mercado de trabalho impulsionado por IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar um projeto 'natty' com IA foi uma experiência empolgante e desafiadora. A maior lição foi perceber como essas ferramentas podem complementar a criatividade humana, transformando ideias em algo tangível e impactante de forma rápida e eficiente. 🌟
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
