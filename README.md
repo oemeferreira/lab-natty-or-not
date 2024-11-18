@@ -12,7 +12,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Este eBook é um guia prático e motivacional para navegar pelas transformações no mercado de trabalho causadas pela Inteligência Artificial Generativa. Ele explora oportunidades, desafios, e estratégias para prosperar em um cenário em constante evolução.
-[Veja o Ebook aqui]([URL](https://github.com/oemeferreira/lab-natty-or-not/blob/main/Ebook%20-%20Preparando%20para%20o%20Futuro%20do%20Trabalho%20com%20IA%20Generativa.pdf))
+[Veja o Ebook aqui](https://github.com/oemeferreira/lab-natty-or-not/blob/main/Ebook%20-%20Preparando%20para%20o%20Futuro%20do%20Trabalho%20com%20IA%20Generativa.pdf)
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Para criação do texto e estrutura do eBook.  
