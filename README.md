@@ -27,8 +27,8 @@ Este eBook é um guia prático e motivacional para navegar pelas transformaçõe
 4. **Diagramação**: Finalizei o eBook no Canva, ajustando o layout para torná-lo visualmente atraente e fácil de ler.
 
 ## 🚀 Resultados
-O resultado é um eBook com aproximadamente 6 páginas, repleto de insights práticos e visuais impactantes. Ele serve como uma ferramenta poderosa para qualquer pessoa que queira se adaptar e prosperar no mercado de trabalho impulsionado por IA.
+O resultado é um eBook com aproximadamente 20 páginas, repleto de insights práticos e visuais impactantes. Ele serve como uma ferramenta poderosa para qualquer pessoa que queira se adaptar e prosperar no mercado de trabalho impulsionado por IA.
 
 ## 💭 Reflexão (Opcional)
-Criar um projeto 'natty' com IA foi uma experiência empolgante e desafiadora. A maior lição foi perceber como essas ferramentas podem complementar a criatividade humana, transformando ideias em algo tangível e impactante de forma rápida e eficiente. 🌟
+Participar do projeto 'natty or not' com IA foi uma experiência empolgante e desafiadora. A maior lição foi perceber como essas ferramentas podem complementar a criatividade humana, transformando ideias em algo tangível e impactante de forma rápida e eficiente. 🌟
 
